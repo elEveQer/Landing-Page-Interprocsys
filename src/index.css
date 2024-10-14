@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*
+De esta forma se pueden usar clases para reutilizar 
+.fondo {
+  @apply bg-black text-white h-screen
+}
+
+*/
