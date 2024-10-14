@@ -1,1 +1,1 @@
-agregar instrucciones
+Agrear instrucciones
