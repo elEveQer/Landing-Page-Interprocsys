@@ -1,0 +1,24 @@
+{
+  "entrevistas": [
+    {
+      "empresa": "Azyd",
+      "emprendedores": "Carlos Herrera, Yazmin Estudillo",
+      "descripcion": "Empresa de servicios comerciales.",
+      "fecha": "2021-02-06",
+      "imagen": "/public/06_de_febrero_Azyd_d5jrhz.webp",
+      "url": "https://drive.google.com/file/d/1Vqy4RdFHypsf45GZV6dgJUooCy9dgIl-/view"
+      
+    },
+
+    {
+      "empresa": "Azyd",
+      "emprendedores": "Carlos Herrera, Yazmin Estudillo",
+      "descripcion": "Empresa de servicios comerciales.",
+      "fecha": "2021-02-06",
+      "imagen": "/public/06_de_febrero_Azyd_d5jrhz.webp",
+      "url": "https://drive.google.com/file/d/1Vqy4RdFHypsf45GZV6dgJUooCy9dgIl-/view"
+      
+    }
+    
+  ]
+}

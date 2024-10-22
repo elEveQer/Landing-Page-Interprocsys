@@ -1,8 +1,11 @@
 {
-  "name": "landing-page-interprocsys",
+  "name": "ips-web-cetis1",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "description": "IPS Site Web",
   "type": "module",
+  "author": "IPS-CETIS1",
+  "license": "GPL-3.0-or-later",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
